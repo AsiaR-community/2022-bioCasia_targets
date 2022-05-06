@@ -24,8 +24,13 @@ Please sign up here: https://bit.ly/asiar_host_2022
 Are you interested in biology and R? R has a package repository for biology called Bioconductor. Bioconductor holds annual conferences in Asia (BioC Asia), Europe (EuroBioC), and the United States (BioC). Kozo Nishida will introduce you to what ‘BioC Asia’ looks like in ~10–15 minutes.
 
 ### Part II: How to use {targets} for effective workflows in R
-Have you ever returned to an analysis in R and can’t remember which scripts you need to run and in what order to make things work? Do you want to speed up your analyses with parallelization? Do you want to ensure other people can run your code? The {targets} R package (https://docs.ropensci.org/targets/) can help! {targets} is increasingly becoming the de-facto standard in R for reproducible workflows but can be intimidating for new users to get started. Joel Nitta will conduct a short (~1 hr) interactive workshop to introduce participants to the {targets} package for managing workflows in R. Joel has published several analyses (papers) using {targets} and now uses it on a near-daily basis (https://github.com/joelnitta). The workshop materials are also available in Japanese (https://togotv.dbcls.jp/20220331.html). <br>
+Have you ever returned to an analysis in R and can’t remember which scripts you need to run and in what order to make things work? Do you want to speed up your analyses with parallelization? Do you want to ensure other people can run your code? The [{targets}](https://docs.ropensci.org/targets/) R package can help! {targets} is increasingly becoming the de-facto standard in R for reproducible workflows but can be intimidating for new users to get started. Joel Nitta will conduct a short (~1 hr) interactive workshop to introduce participants to the {targets} package for managing workflows in R. Joel has published several analyses (papers) using {targets} and now uses it on a [near-daily basis](https://github.com/joelnitta).
+
 Prerequisites: Basic familiarity with R. If you plan to follow along during live coding, please install R, RStudio, and {targets}.
+
+- [Slides](https://joelnitta.github.io/asiaR-targets-intro/)
+- [Example workflow](https://github.com/joelnitta/targets_gapminder_example) using Gapminder data
+- [Workshop materials in Japanese](https://togotv.dbcls.jp/20220331.html)
 
 ## Hosts
 - Janani Ravi, Michigan State Univ, US | [@Janani137](//twitter.com/janani137)
