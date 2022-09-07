@@ -1,6 +1,7 @@
 # Introduction to BioC Asia and how to use {targets} for effective workflows in R
 May 07, 2022 | 8a UTC ([your time](https://bit.ly/asiar_may2022))
 
+**This event is over, but the [recording is available on YouTube](https://www.youtube.com/watch?v=XMvinGSG72k&t=4685s).**
 
 ### ✍️ [Live notes/Q&A](https://hackmd.io/8HzieKHoSEKLUoQRm9fBYg) | [Code of Conduct](https://github.com/AsiaR-community/coc)
 
